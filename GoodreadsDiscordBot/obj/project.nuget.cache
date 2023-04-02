@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKON1SgqRwmU6AIWB0G/DZl0yK1rIw/X7rGEsPSh1MBy1yVGN7wFTsU98y+gfy+ToE+YJV4uQymgk4er2X/zXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmam\\Documents\\GoodreadsDiscordBot\\GoodreadsDiscordBot\\GoodreadsDiscordBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmam\\.nuget\\packages\\discord.net.core\\3.10.0\\discord.net.core.3.10.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\discord.net.interactions\\3.10.0\\discord.net.interactions.3.10.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\discord.net.rest\\3.10.0\\discord.net.rest.3.10.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\discord.net.websocket\\3.10.0\\discord.net.websocket.3.10.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\reversemarkdown\\3.24.0\\reversemarkdown.3.24.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\emmam\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

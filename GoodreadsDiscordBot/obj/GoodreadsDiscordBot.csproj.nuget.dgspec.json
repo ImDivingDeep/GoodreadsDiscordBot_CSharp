@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emmam\\Documents\\GoodreadsDiscordBot\\GoodreadsDiscordBot\\GoodreadsDiscordBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emmam\\Documents\\GoodreadsDiscordBot\\GoodreadsDiscordBot\\GoodreadsDiscordBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emmam\\Documents\\GoodreadsDiscordBot\\GoodreadsDiscordBot\\GoodreadsDiscordBot.csproj",
+        "projectName": "GoodreadsDiscordBot",
+        "projectPath": "C:\\Users\\emmam\\Documents\\GoodreadsDiscordBot\\GoodreadsDiscordBot\\GoodreadsDiscordBot.csproj",
+        "packagesPath": "C:\\Users\\emmam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emmam\\Documents\\GoodreadsDiscordBot\\GoodreadsDiscordBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emmam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "Discord.Net.Interactions": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "ReverseMarkdown": {
+              "target": "Package",
+              "version": "[3.24.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
